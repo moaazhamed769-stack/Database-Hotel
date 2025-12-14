@@ -1,3 +1,9 @@
+Bro Code::
+https://www.youtube.com/watch?v=5OdVJbNCSso
+
+
+
+
 #2   00:10:29 DATABASES
 #3   00:14:29 TABLES
 #4   00:22:38 INSERT ROWS
